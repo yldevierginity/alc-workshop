@@ -1,6 +1,5 @@
-﻿Access the photos here: [How to Create an AWS User Account](https://drive.google.com/drive/folders/1iyXw7aPZfYNLXvlkYlLgWRyJ9JoDcPqc?usp=drive_link)
+# Creating an AWS User Account: A Step-by-Step Guide
 
-HOW TO CREATE AN AWS USER ACCOUNT
 
 **PREREQUISITE**
 
@@ -16,7 +15,7 @@ Steps to Create an AWS User Account
 - **Provide an AWS Account Name**. Choose a unique name for your account. This can be your name, company name, or anything you prefer. 
 - **Verify your email address**. Check the code sent to your email and choose Verify.
 
-`	`![](002.png)
+![](002.png)
 
 - **Input a Secure Password**. Create a strong root user password for your AWS account then choose Continue.
 - **Select Account Type**. Select 'Personal' or 'Professional' depending on your use case. 
